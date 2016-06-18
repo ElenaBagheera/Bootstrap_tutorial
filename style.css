@@ -1,0 +1,71 @@
+#header>div {
+	background-color: #b4916e;
+	height: 150px;
+}
+
+#content div {
+	background-color: #f0ae98;
+	height: auto;
+}
+
+div.arg {
+	min-height: 180px;
+}
+
+.arg:first-of-type, #arg2 .arg:first-of-type {
+	margin-top: 60px;
+}
+
+.arg img {
+	float: left;
+}
+
+.arg p {
+	font-family: 'Antiqua', serif;
+	font-size: 1.6em;
+	margin-left: 80px;
+}
+
+#header h1 {
+	font-family: 'Calibri', sans-serif;
+	font-size: 2.5em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 95px;
+}
+
+#photo img {
+	width: 100%;
+	height: auto;
+	margin-top: 60px;
+}
+
+#arg2 .arg img {
+	float: right;
+}
+
+#arg2 .arg p {
+	margin-left: 20px;
+	margin-right: 15%;
+}
+
+#benefits h1 {
+	font-family: 'Calibri', sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+	color: #003300;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+#benefits-list div {
+	min-height: 200px;
+}
+
+#benefits-list div p, #benefits2-list div p {
+	font-family: 'Antiqua', serif;
+	font-size: 1.6em;
+	text-align: left;
+}
+
